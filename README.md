@@ -1,4 +1,4 @@
-# personal_expenses
+# Personal Expenses
 
 A simple single paged Flutter App which allow you to log your personal expenses to see basic analytics.
 
